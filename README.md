@@ -1,7 +1,7 @@
 # Finance Dashboard Power BI
 This Finance Dashboard offers a clear overview of financial data, focusing on expenses, income, and savings.  
 
-*Expenses by Date: A line graph displays trends in expenses from January 2021 to January 2024. 
+* Expenses by Date: A line graph displays trends in expenses from January 2021 to January 2024. 
   *Key Metrics: Income: $3M (0.00% change) 
   *Expense: $1M (2.73% increase) 
   *Savings: $2M (-1.77% change). 
